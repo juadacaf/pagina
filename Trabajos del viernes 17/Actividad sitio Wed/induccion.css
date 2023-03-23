@@ -1,0 +1,41 @@
+body
+{
+
+}
+
+body main
+{
+    width:100% ;
+    height: 1560px;
+    border: 5px SOLID #559f55;
+    margin:0 auto ;
+}
+
+.titulo
+{
+background-color:#559f55 ;
+color:#92c07a ;
+position: relative;
+width: 210px;
+height: 40px;
+
+}
+.in
+{
+padding: 1px;
+list-style-type: none;
+float: left;
+}
+.c2
+{
+margin-top: 70px;
+background-color:#559f55;
+height: 110px;
+width: 1335px;
+}
+.lista2 li
+{ 
+padding: 44px;
+list-style-type: none;
+float: left;
+}
