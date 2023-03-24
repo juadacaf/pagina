@@ -5,7 +5,7 @@ body{
 }
 body main{color: #559f55;
     width:99.8% ;
-    height: 1000px;
+    height: 915px;
     border: 5px SOLID #559f55;
     margin:0 auto ;
 
@@ -23,6 +23,7 @@ margin-top: -140px;
 }
 .es
 {
+    border-radius: 20px;
 margin-top: 70px;
 background-color:#559f55;
 height: 110px;
@@ -33,6 +34,9 @@ width: 1335px;
 padding: 10px;
 list-style-type: none;
 float: left;
+}
+.letra{
+    color: black;
 }
 .e
 { 
