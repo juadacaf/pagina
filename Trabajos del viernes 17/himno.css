@@ -35,6 +35,11 @@ padding: 10px;
 list-style-type: none;
 float: left;
 }
+.video{
+    position: relative;
+    left: 80%;
+    top: -1000px;
+}
 .him
 { 
     width: 50%;
@@ -44,11 +49,7 @@ float: left;
     left: 335px;
     color: black;
 }
-.fondo
-{
 
-    
-}
 .ti{
     margin-top: 27px;
 }
