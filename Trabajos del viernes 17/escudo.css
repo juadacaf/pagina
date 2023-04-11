@@ -3,10 +3,10 @@ body{
     font-family: 'Delicious Handrawn', cursive;
     font-family: 'Edu NSW ACT Foundation', cursive;
 }
-body main{color: #559f55;
-    width:99.8% ;
-    height: 915px;
-    border: 5px SOLID #559f55;
+body main{color: #CB7766;
+    width:100% ;
+    height: 155%;
+    border: 5px SOLID #CB7766;
     margin:0 auto ;
 
    } 
@@ -14,20 +14,20 @@ body main{color: #559f55;
 .titulo2
 {
     font-family: 'Delicious Handrawn', cursive;
-background-color:#559f55 ;
-color:#92c07a ;
+background-color:#CB7766 ;
+color:#FFCE40 ;
 position: relative;
-width: 210px;
-height: 80px;
+width: 280px;
+height: 95px;
 margin-top: -140px;
 }
 .es
 {
     border-radius: 20px;
 margin-top: 70px;
-background-color:#559f55;
+background-color:#CB7766;
 height: 110px;
-width: 1335px;
+width: 100%;
 }
 .lista4 li
 { 
@@ -36,12 +36,15 @@ list-style-type: none;
 float: left;
 }
 .letra{
+    position: relative;
+    margin-left: 2%;
+    margin-top: 2%;
     color: black;
 }
 .e
 { 
     width: 50%;
-    border: 5px SOLID #559f55;
+    border: 5px SOLID #ffffff;
     margin:0 auto ; 
 
 }
