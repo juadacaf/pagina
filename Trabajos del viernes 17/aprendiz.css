@@ -36,6 +36,10 @@ padding: 10px;
 list-style-type: none;
 float: left;
 }
+.lista3 a{
+    text-decoration: none;
+color: #FFCE40;
+}
 .ap
 { 
     width: 50%;

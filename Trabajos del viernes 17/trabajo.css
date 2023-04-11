@@ -41,6 +41,11 @@ width: 100%;
 padding: 10px;
 list-style-type: none;
 float: left;
+
+}
+.lista1 a{
+    text-decoration: none;
+color: #FFCE40;
 }
 .hs
 {

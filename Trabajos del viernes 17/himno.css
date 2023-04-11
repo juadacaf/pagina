@@ -6,7 +6,7 @@ body{
 }
 body main{color: #CB7766;
     width:100% ;
-    height: 169%;
+    height: 185%;
     border: 5px SOLID #CB7766;
     margin:0 auto ;
 
@@ -36,16 +36,16 @@ padding: 10px;
 list-style-type: none;
 float: left;
 }
-.video{
-    position: relative;
-    left: 60%;
-    top: -42%;
+.lista5 a{
+    text-decoration: none;
+color: #FFCE40;
 }
+
 .him
 { 
     width: 51%;
     height: 105%;
-    border: 2px SOLID #ffffff;
+   
     margin:0 auto ;
     position: absolute;
     left: 1.5%;
@@ -54,33 +54,24 @@ float: left;
 }
 
 .ti{
-    margin-top: 27px;
+    
+    margin-top: 1%;
 }
 .au{
    
-    margin-top: 60px;
+    margin-top: 1%;
     background-color: white;
    
 }
-.coro{
-margin-top:10px ;
-}
-.i{
-    margin-top: 10px;
-}
-.ii{
-    margin-top: 10px;
-}
-.iii{
-    margin-top: 10px;
-}
-.iv{
-    
-    margin-top: 10px;
 
-}
 .fondo{
     
-    margin-left: 1%;
+    margin-left: -47%;
     margin-top: 1%;
+}
+
+.video{
+    position: relative;
+    left: 60%;
+    top:-43%;
 }
