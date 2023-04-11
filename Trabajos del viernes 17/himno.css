@@ -1,4 +1,5 @@
 body{
+    overflow-x: hidden;
     font-family: 'Alkatra', cursive;
     font-family: 'Delicious Handrawn', cursive;
     font-family: 'Edu NSW ACT Foundation', cursive;
@@ -37,16 +38,18 @@ float: left;
 }
 .video{
     position: relative;
-    left: 80%;
-    top: -1000px;
+    left: 60%;
+    top: -42%;
 }
 .him
 { 
-    width: 50%;
-    border: 5px SOLID #ffffff;
+    width: 51%;
+    height: 105%;
+    border: 2px SOLID #ffffff;
     margin:0 auto ;
     position: absolute;
-    left: 338px;
+    left: 1.5%;
+    top: 59%;
     color: black;
 }
 
@@ -54,6 +57,7 @@ float: left;
     margin-top: 27px;
 }
 .au{
+   
     margin-top: 60px;
     background-color: white;
    
@@ -71,6 +75,12 @@ margin-top:10px ;
     margin-top: 10px;
 }
 .iv{
+    
     margin-top: 10px;
 
+}
+.fondo{
+    
+    margin-left: 1%;
+    margin-top: 1%;
 }

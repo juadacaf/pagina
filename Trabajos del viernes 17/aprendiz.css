@@ -1,5 +1,6 @@
 body
 {
+    overflow-x: hidden;
     font-family: 'Alkatra', cursive;
     font-family: 'Delicious Handrawn', cursive;
     font-family: 'Edu NSW ACT Foundation', cursive;
